@@ -1,0 +1,15 @@
+{
+  "name": "htx2-bot",
+  "version": "0.0.1",
+  "description": "HTX 2 - Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": ["Discord","Bot","Node","Javascript"],
+  "author": "Patrick",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0"
+  }
+}
